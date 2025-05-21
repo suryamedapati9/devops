@@ -46,7 +46,7 @@ echo "All movies: ${MOVIES[@]}"
 # do 
 #     echo -e "$Y $movie $N  is good"
 # done
-
+echo $0
 
 for i in ${MOVIES[@]}
 do
